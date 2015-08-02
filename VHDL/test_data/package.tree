@@ -1,0 +1,1 @@
+(design_file (design_unit context_clause (library_unit (primary_unit (package_declaration PACKAGE (identifier n) IS package_declarative_part END PACKAGE (simple_name (identifier n)) ;)))))

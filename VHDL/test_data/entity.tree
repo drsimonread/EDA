@@ -1,0 +1,1 @@
+(design_file (design_unit context_clause (library_unit (primary_unit (entity_declaration ENTITY (identifier A) IS entity_header entity_declarative_part END ENTITY (simple_name (identifier A)) ;)))))

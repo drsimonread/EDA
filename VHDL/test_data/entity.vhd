@@ -1,0 +1,3 @@
+ENTITY A IS
+
+END ENTITY A;
